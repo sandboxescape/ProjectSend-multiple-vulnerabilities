@@ -1,5 +1,4 @@
 # CVE-2016-10731 & CVE-2016-10732 & CVE-2016-10733 & CVE-2016-10734
-> Discoverer:twitter@sandbox_escape 
 
 > CVE:http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10731  
 http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10732  
